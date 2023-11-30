@@ -28,13 +28,18 @@ body{
 }
 
 .cartas{
-    border: 3px rgb(235, 245, 220) solid;
+    border: 3px rgba(60, 63, 55, 0.511) solid;
+    background-color: rgba(60, 63, 55, 0.511);
     border-radius: 20px;
     height: 150px;
     width: 150px;
     margin: 10px;
     background-size: cover;
 }
+
+
+
+/*Inserindo imagem nas cartas 
 
 #carta1, #carta2{
     background-image: url('imagens/css_scale.png');
@@ -58,4 +63,4 @@ body{
 
 #carta11, #carta12{
     background-image: url("imagens/react_scale.png");
-}
+} */
